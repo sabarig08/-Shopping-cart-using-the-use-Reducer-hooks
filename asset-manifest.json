@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/-Shopping-cart-using-the-use-Reducer-hooks/static/css/main.8de0c009.css",
+    "main.js": "/-Shopping-cart-using-the-use-Reducer-hooks/static/js/main.c7695640.js",
+    "static/media/orange.webp": "/-Shopping-cart-using-the-use-Reducer-hooks/static/media/orange.3e64bf174c620940c186.webp",
+    "index.html": "/-Shopping-cart-using-the-use-Reducer-hooks/index.html",
+    "main.8de0c009.css.map": "/-Shopping-cart-using-the-use-Reducer-hooks/static/css/main.8de0c009.css.map",
+    "main.c7695640.js.map": "/-Shopping-cart-using-the-use-Reducer-hooks/static/js/main.c7695640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8de0c009.css",
+    "static/js/main.c7695640.js"
+  ]
+}
